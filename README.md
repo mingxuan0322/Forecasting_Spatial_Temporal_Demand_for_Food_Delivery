@@ -14,4 +14,4 @@ we select the topic of forecasting the spatial and temporal distributions of fut
 orders and do deeper research in it. We hope our research could propose
 some ideas for optimizing the food delivery system in this direction, achieving
 system efficiency improvement.
-Real data from [Meituan](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge.git)
+Real data from [Meituan](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge.git).
